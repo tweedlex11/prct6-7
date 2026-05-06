@@ -1,5 +1,5 @@
 ## Student
-- Name: Vlad Makhun
+- Name: Pavlenko Ivan
 - Group: 232.1
 
 ## Практичне заняття №7 — Redis + Pagination + Filtering

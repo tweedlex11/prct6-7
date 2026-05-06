@@ -2,7 +2,7 @@
 - Name: Pavlenko Ivan
 - Group: 232.1
 
-## Практичне заняття №7 — Redis + Pagination + Filtering
+## Практичне заняття №6-7 — Redis + Pagination + Filtering
 
 ### Структура репозиторію
 ├── src/
